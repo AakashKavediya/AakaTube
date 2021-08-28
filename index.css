@@ -264,7 +264,7 @@
             border-bottom: 1px solid #ededed;
             /* to scroll the header */
             /* overflow-x: scroll; */
-            height: 8vh;
+            height: 6vh;
         }
         #bars {
             margin-top: 6px;
