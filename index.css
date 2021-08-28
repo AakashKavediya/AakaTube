@@ -327,20 +327,20 @@
             color: black;
             width: max-content;
             margin-right: 10px;
-            font-size: 16px;
+            font-size: 19px;
         }
         #two {
             color: black;
             width: max-content;
             margin-right: 10px;
-            font-size: 16px;
+            font-size: 19px;
             display: none;
         }
         #three {
             color: black;
             width: max-content;
             margin-right: 10px;
-            font-size: 16px;
+            font-size: 18px;
         }
         #plus20 {
             columns: white;
@@ -351,7 +351,7 @@
         #four {
             background-color: orangered;
             border-radius: 20px;
-            font-size: 14px;
+            font-size: 16px;
             font-weight: bolder;
             /* width: 20px; */
             /* height: 20px; */
