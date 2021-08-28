@@ -264,7 +264,7 @@
             border-bottom: 1px solid #ededed;
             /* to scroll the header */
             /* overflow-x: scroll; */
-            height: 12vh;
+            height: 8vh;
         }
         #bars {
             margin-top: 6px;
@@ -423,7 +423,7 @@
             flex-wrap: wrap;
             margin-left: -200px;
             /* margin-right: auto; */
-            height: 89vh;
+            height: 93vh;
             overflow-y: scroll;
         }
         #logo {
@@ -478,7 +478,7 @@
             margin-left: auto;
             margin-right: auto;
             position: relative;
-            height: 10vh;
+            height: 8vh;
         }
         nav {
             margin-left: auto;
