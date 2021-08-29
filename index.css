@@ -483,6 +483,7 @@
             margin-right: auto;
             position: relative;
             height: 8vh;
+            background-color: whitesmoke;
         }
         nav {
             margin-left: auto;
