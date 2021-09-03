@@ -248,7 +248,7 @@
         visibility: hidden;
     }
     
-    @media(max-width:370px) {
+    @media(max-width:770px) {
         * {
             padding: 0;
             margin: 0;
